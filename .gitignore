@@ -47,4 +47,13 @@ ai-service/*.pyc
 ai-service/.env
 
 # uploads (local)
-uploads/
+uploads/# Generated Prisma client
+generated/
+# Python cache files
+__pycache__/
+**/__pycache__/
+*.py[cod]
+# Environment files (keep examples)
+.env.*
+!.env.example
+!**/.env.example
