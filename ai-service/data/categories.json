@@ -1,0 +1,34 @@
+{
+  "Technology": [
+    "software", "developer", "engineer", "programmer", "devops", "data scientist",
+    "it support", "network", "cloud", "full stack", "frontend", "backend", "qa engineer"
+  ],
+  "Healthcare": [
+    "nurse", "doctor", "physician", "pharmacist", "medical", "clinical", "hospital",
+    "surgeon", "dentist", "radiologist", "therapist", "paramedic"
+  ],
+  "Hospitality & Tourism": [
+    "hotel", "restaurant", "tourism", "travel", "guest", "hospitality", "chef",
+    "barista", "waiter", "concierge", "front desk", "housekeeping"
+  ],
+  "Engineering": [
+    "civil engineer", "mechanical engineer", "electrical engineer", "hvac",
+    "structural", "site engineer", "project engineer", "design engineer"
+  ],
+  "Finance & Banking": [
+    "accountant", "finance", "banking", "auditor", "financial analyst",
+    "investment", "teller", "credit analyst", "tax", "bookkeeper"
+  ],
+  "Sales & Marketing": [
+    "sales", "marketing", "business development", "brand", "seo", "digital marketing",
+    "content", "social media", "account manager", "sales executive"
+  ],
+  "Logistics & Supply Chain": [
+    "logistics", "supply chain", "warehouse", "procurement", "shipping",
+    "freight", "customs", "inventory", "distribution"
+  ],
+  "Construction": [
+    "construction", "site supervisor", "foreman", "quantity surveyor", "safety officer",
+    "crane operator", "electrician", "plumber", "welder", "mason"
+  ]
+}

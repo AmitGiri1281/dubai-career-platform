@@ -1,0 +1,42 @@
+{
+  "tech": [
+    "python", "javascript", "typescript", "java", "c++", "c#", "go", "rust", "php", "ruby",
+    "react", "next.js", "vue", "angular", "node.js", "express", "nestjs", "django", "flask", "fastapi",
+    "postgresql", "mysql", "mongodb", "redis", "elasticsearch",
+    "docker", "kubernetes", "aws", "azure", "gcp", "terraform",
+    "git", "ci/cd", "jenkins", "github actions",
+    "html", "css", "tailwind", "sass"
+  ],
+  "healthcare": [
+    "nursing", "rn", "patient care", "icu", "emergency", "surgery",
+    "pharmacy", "pharmacist", "physiotherapy", "radiology", "dental",
+    "clinical", "hospital", "emr", "hipaa", "bls", "acls"
+  ],
+  "hospitality": [
+    "hotel", "front desk", "concierge", "housekeeping", "food & beverage",
+    "restaurant", "barista", "chef", "sous chef", "waiter", "hostess",
+    "opera pms", "guest relations", "reservation"
+  ],
+  "engineering": [
+    "autocad", "revit", "solidworks", "hvac", "mechanical", "electrical", "civil",
+    "project management", "site supervision", "qs", "quantity surveying",
+    "structural", "mep", "bim"
+  ],
+  "finance": [
+    "accounting", "bookkeeping", "audit", "tax", "vat", "ifrs",
+    "financial analysis", "budgeting", "forecasting", "excel", "sap", "quickbooks",
+    "cfa", "cpa", "acca"
+  ],
+  "sales": [
+    "sales", "business development", "account management", "crm", "salesforce",
+    "lead generation", "negotiation", "b2b", "b2c", "kpi", "cold calling"
+  ],
+  "logistics": [
+    "supply chain", "logistics", "warehouse", "inventory", "procurement",
+    "freight", "customs", "shipping", "sap mm", "wms"
+  ],
+  "soft": [
+    "communication", "teamwork", "leadership", "problem solving", "time management",
+    "adaptability", "critical thinking", "english", "arabic", "mandarin"
+  ]
+}
